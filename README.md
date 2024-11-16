@@ -4,7 +4,7 @@
 
 ---
 
-I'm a **24-year-old developer** based in **Thailand**, passionate about exploring the cutting-edge realms of technology. My journey has led me deep into the world of **AI** and **Blockchain**, where I continually strive to innovate and learn.
+I'm a **24-year-old developer** based in **Thailand**, passionate about exploring the cutting-edge realms of technology. My journey has led me deep into the world of **AI**, **Blockchain** and **Data Analytics**, where I continually strive to innovate and learn.
 
 ---
 
