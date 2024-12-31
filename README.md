@@ -45,10 +45,6 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
 ---
 
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bookchaowalit&theme=dracula)
-
 
 ## 🛠️ Skills
 
@@ -116,24 +112,7 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
   </a>
 </p>
 
----
 
-## 🏆 Achievements
-
-<!-- You can use GitHub Readme Trophy or similar services to showcase your achievements -->
-![trophy](https://github-profile-trophy.vercel.app/?username=bookchaowalit&theme=onedark)
-
----
-
-## 📂 Featured Projects
-
-### [Project One](https://github.com/bookchaowalit/project-one)
-*Brief description of Project One. Highlight the technologies used and the problem it solves.*
-
-### [Project Two](https://github.com/bookchaowalit/project-two)
-*Brief description of Project Two. Highlight the technologies used and the problem it solves.*
-
----
 
 ## 📚 Learning Path
 
