@@ -1,19 +1,20 @@
 # Hi there, I'm Book ![Welcome GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
----
 
 I'm a **24-year-old developer** based in **Thailand**, passionate about exploring the cutting-edge realms of technology. My journey has led me deep into the world of **AI**, **Blockchain** and **Data Analytics**, where I continually strive to innovate and learn.
 
----
+
 
 ## 💡 Current Focus
 
 - **AI Research:** Exploring new AI technologies, keeping up with the latest papers, and experimenting with models.
 - **Blockchain Learning:** Understanding the foundations of blockchain technology, smart contracts, and decentralized applications.
 
+
 ## 🌱 Always Learning
 
 I'm a firm believer in continuous learning. Whether it's the latest trends in AI or the fundamentals of blockchain, I'm always on the lookout for opportunities to expand my knowledge and skill set.
+
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +22,6 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
 **AI/ML Tools:** LlamaIndex, LangChain  
 **Others:** Git, Docker, TypeScript, NodeJS, PostgreSQL, Google Cloud, Arduino, Linux
 
----
 
 ## 📫 Get in Touch
 
@@ -30,13 +30,10 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
 - 🔗 **LinkedIn:** [Chaowalit Greepoke](https://www.linkedin.com/in/chaowalit-greepoke-b687351a0)
 - 📖 **Medium:** [@bookchaowalit](http://www.medium.com/@bookchaowalit)
 
----
 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bookchaowalit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
-
----
 
 
 
@@ -90,7 +87,6 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
   </a>
 </p>
 
----
 
 ## 🔗 Socials
 
@@ -114,7 +110,6 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
 - **Machine Learning & AI:** Developing intelligent models and exploring data-driven solutions.
 - **Blockchain:** Creating decentralized applications and understanding smart contract development.
 
----
 
 Feel free to customize this template further to better fit your personality and professional journey. Here are a few additional tips:
 
