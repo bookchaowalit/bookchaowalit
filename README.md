@@ -1,91 +1,35 @@
 # Hi there, I'm Book ![Welcome GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-
-I'm a **25-year-old developer** based in **Thailand**, passionate about exploring the cutting-edge realms of technology. My journey has led me deep into the world of **AI** and **Data Analytics**, where I continually strive to innovate and learn.
-
-
+I'm a **25-year-old developer** based in **Thailand**, passionate about exploring cutting-edge technology. My journey spans **AI, Data Analytics, and Full-Stack Development**, where I continually strive to innovate and learn.
 
 ## 💡 Current Focus
 
-- **AI Research:** Exploring new AI technologies, keeping up with the latest papers, and experimenting with models.
-
+- **AI & Machine Learning:** Experimenting with LlamaIndex, LangChain, PyTorch, and Huggingface models.
+- **Web & App Development:** Building scalable web and mobile apps using React, Next.js, Flutter, FastAPI, .NET, and Laravel.
+- **Data & Cloud:** Managing databases (PostgreSQL, SQL Server, MongoDB, Supabase) and deploying apps on cloud platforms (AWS, GCP, DigitalOcean, Docker, Kubernetes).
 
 ## 🌱 Always Learning
 
-I'm a firm believer in continuous learning. Whether it's the latest trends in AI or the fundamentals of blockchain, I'm always on the lookout for opportunities to expand my knowledge and skill set.
-
+I'm a firm believer in continuous learning. Whether it's new AI techniques, blockchain fundamentals, or cloud orchestration, I always explore opportunities to expand my skill set.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript  
-**AI/ML Tools:** LlamaIndex, LangChain  
-**Others:** Git, Docker, TypeScript, NodeJS, PostgreSQL, Google Cloud, Arduino, Linux
-
+**Languages:** Python, C#, Java, HTML, CSS, JavaScript, PHP, Liquid, SQL, Dart  
+**Libraries & Frameworks:** jQuery, React, Pandas, Numpy, Plotly, Axios, Express.js, FastAPI, Next.js, .NET, Spring Boot, Laravel, LlamaIndex, LangChain, PyTorch, Apache Airflow, Flutter  
+**Databases:** SQLite, PostgreSQL, SQL Server, MongoDB, Neon, Supabase  
+**Cloud & DevOps:** DigitalOcean, GCP, AWS, Docker, Kubernetes, Lens  
+**Runtime & Tools:** Node.js, Git, VS Code, Vim, Neovim  
 
 ## 📫 Get in Touch
 
-- 🌍 **Location:** Thailand
-- ✉️ **Email:** [bookchaowalit@gmail.com](mailto:bookchaowalit@gmail.com)
-- 🔗 **LinkedIn:** [Chaowalit Greepoke](https://www.linkedin.com/in/chaowalit-greepoke-b687351a0)
-- 📖 **Medium:** [@bookchaowalit](http://www.medium.com/@bookchaowalit)
-
+- 🌍 **Location:** Thailand  
+- ✉️ **Email:** [bookchaowalit@gmail.com](mailto:bookchaowalit@gmail.com)  
+- 🔗 **LinkedIn:** [Chaowalit Greepoke](https://www.linkedin.com/in/chaowalit-greepoke-b687351a0)  
+- 📖 **Medium:** [@bookchaowalit](http://www.medium.com/@bookchaowalit)  
 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bookchaowalit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
-
-
-
-## 🛠️ Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" alt="GNU Bash" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" alt="Vim" width="36" height="36" />
-  </a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" alt="Neovim" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="NextJS" width="36" height="36" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="36" height="36" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36" />
-  </a>
-</p>
-
 
 ## 🔗 Socials
 
@@ -101,21 +45,10 @@ I'm a firm believer in continuous learning. Whether it's the latest trends in AI
   </a>
 </p>
 
-
-
 ## 📚 Learning Path
 
-- **Website Development:** Building responsive and dynamic websites using modern frameworks.
-- **Machine Learning & AI:** Developing intelligent models and exploring data-driven solutions.
-- **Blockchain:** Creating decentralized applications and understanding smart contract development.
+- **Web Development:** Modern responsive and dynamic websites using React, Next.js, Flutter, and other frameworks.  
+- **AI & ML:** Intelligent models, NLP, and data-driven solutions using LlamaIndex, LangChain, and PyTorch.  
+- **Cloud & DevOps:** CI/CD pipelines, containerization, and scalable cloud deployments.  
+- **Blockchain & Decentralized Apps:** Learning smart contracts and dApp development.
 
-
-Feel free to customize this template further to better fit your personality and professional journey. Here are a few additional tips:
-
-- **Keep It Updated:** Regularly update your README to reflect your latest projects, skills, and achievements.
-  
-- **Use Emojis Wisely:** They can make your profile more lively but use them sparingly to maintain professionalism.
-  
-- **Link to Live Demos:** If possible, link to live versions of your projects to give visitors a direct way to interact with your work.
-
-By implementing these enhancements, your GitHub profile will not only present your technical skills effectively but also provide a comprehensive view of your professional persona.
