@@ -5,7 +5,7 @@ I'm a **25-year-old developer** based in **Thailand**, passionate about explorin
 ## 💡 Current Focus
 
 - **AI & Machine Learning:** Experimenting with LlamaIndex, LangChain, PyTorch, and Huggingface models.
-- **Web & App Development:** Building scalable web and mobile apps using React, Next.js, Flutter, FastAPI, .NET, and Laravel.
+- **Web & App Development:** Building scalable web and mobile apps using React, Next.js, Flutter, FastAPI, .NET, Laravel, Go, and GoFiber.
 - **Data & Cloud:** Managing databases (PostgreSQL, SQL Server, MongoDB, Supabase) and deploying apps on cloud platforms (AWS, GCP, DigitalOcean, Docker, Kubernetes).
 
 ## 🌱 Always Learning
@@ -14,8 +14,8 @@ I'm a firm believer in continuous learning. Whether it's new AI techniques, bloc
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C#, Java, HTML, CSS, JavaScript, PHP, Liquid, SQL, Dart  
-**Libraries & Frameworks:** jQuery, React, Pandas, Numpy, Plotly, Axios, Express.js, FastAPI, Next.js, .NET, Spring Boot, Laravel, LlamaIndex, LangChain, PyTorch, Apache Airflow, Flutter  
+**Languages:** Python, C#, Java, Go, HTML, CSS, JavaScript, PHP, Liquid, SQL, Dart  
+**Libraries & Frameworks:** jQuery, React, Pandas, Numpy, Plotly, Axios, Express.js, FastAPI, Next.js, .NET, Spring Boot, Laravel, GoFiber, LlamaIndex, LangChain, PyTorch, Apache Airflow, Flutter  
 **Databases:** SQLite, PostgreSQL, SQL Server, MongoDB, Neon, Supabase  
 **Cloud & DevOps:** DigitalOcean, GCP, AWS, Docker, Kubernetes, Lens  
 **Runtime & Tools:** Node.js, Git, VS Code, Vim, Neovim  
@@ -47,8 +47,7 @@ I'm a firm believer in continuous learning. Whether it's new AI techniques, bloc
 
 ## 📚 Learning Path
 
-- **Web Development:** Modern responsive and dynamic websites using React, Next.js, Flutter, and other frameworks.  
+- **Web Development:** Modern responsive and dynamic websites using React, Next.js, Flutter, GoFiber, and other frameworks.  
 - **AI & ML:** Intelligent models, NLP, and data-driven solutions using LlamaIndex, LangChain, and PyTorch.  
 - **Cloud & DevOps:** CI/CD pipelines, containerization, and scalable cloud deployments.  
 - **Blockchain & Decentralized Apps:** Learning smart contracts and dApp development.
-
