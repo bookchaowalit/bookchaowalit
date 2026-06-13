@@ -1,7 +1,7 @@
 # Hi there, I'm Book ![Welcome GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 👨‍💻 **Tech Generalist | Solopreneur | Full-Stack & AI Developer**  
-Based in **Bangkok, Thailand 🇹🇭** with 3+ years of experience in **full-stack development, AI integration, and SEO optimization**.
+Based in **Bangkok, Thailand 🇹🇭** with 5+ years of experience in **full-stack development, AI integration, and SEO optimization**.
 
 ## 📝 About Me
 
