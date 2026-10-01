@@ -1,6 +1,6 @@
 <!-- TYPING SVG — animated hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=60&lines=builder+%C2%B7+poet+of+systems;every+commit%2C+a+stroke+on+canvas;generalist+%C2%B7+solopreneur+%C2%B7+problem+solver;45+domains.+129+projects.+zero+limits." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=60&lines=builder+%C2%B7+poet+of+systems;every+commit%2C+a+stroke+on+canvas;generalist+%C2%B7+solopreneur+%C2%B7+problem+solver;small+tools%2C+built+in+public." alt="Typing SVG" />
 </p>
 
 <!-- ASCII identity — centered via HTML div -->
@@ -22,9 +22,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangkok-Thailand-0891b2?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/⚡_Status-Building_Solo_Empire-22c55e?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🗂_Projects-129-7c3aed?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/🧠_Domains-45-ea580c?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🏢_Orgs-8-0891b2?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🏢_Orgs-10-0891b2?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/⏱_Experience-5%2B_yrs-6b7280?style=flat-square&labelColor=0d1117" />
 </p>
 
@@ -74,14 +73,18 @@ Working across **software engineering, data, AI, and digital growth** — connec
 
 ## the empire map
 
-> *8 organisations, 1 vision — each org is a different brushstroke of the same painting.*
+> *10 organisations, 1 vision — each org is a different brushstroke of the same painting.*
+> *Some repos are live products, many are small portfolio apps, and a few are early starters or plans; each README says which.*
 
 | | org | intention |
 |:--:|:----|:----------|
 | 📱 | [bookchaowalit-mobile](https://github.com/bookchaowalit-mobile) | apps that live in pockets |
 | 🌐 | [bookchaowalit-website](https://github.com/bookchaowalit-website) | ideas made visible |
 | 🤖 | [bookchaowalit-ai](https://github.com/bookchaowalit-ai) | teaching machines to think |
+| 🧩 | [bookchaowalit-backend](https://github.com/bookchaowalit-backend) | the services behind the apps |
 | 🎮 | [bookchaowalit-game](https://github.com/bookchaowalit-game) | play as a creative practice |
+| 🥽 | [bookchaowalit-ar](https://github.com/bookchaowalit-ar) | AR/MR experiments (starter stage) |
+| 🖥️ | [bookchaowalit-desktop](https://github.com/bookchaowalit-desktop) | desktop foundations (starter stage) |
 | 🚀 | [bookchaowalit-startup](https://github.com/bookchaowalit-startup) | vision at scale |
 | 💼 | [bookchaowalit-freelance](https://github.com/bookchaowalit-freelance) | craft meets commerce |
 | 📦 | [bookchaowalit-products](https://github.com/bookchaowalit-products) | art packaged for the world |
@@ -90,7 +93,7 @@ Working across **software engineering, data, AI, and digital growth** — connec
 
 ## featured projects
 
-> *129 projects deployed — from web tools to mobile apps.*
+> *A few highlights — from web tools to mobile apps and hardware.*
 
 | project | description | stack |
 |:--------|:------------|:------|
@@ -101,9 +104,12 @@ Working across **software engineering, data, AI, and digital growth** — connec
 | 💬 [Chat Playground](https://chat-playground.bookchaowalit.com) | Experiment with different AI chat models | Next.js · TypeScript |
 | 🤖 [MCP Integration Server](https://github.com/bookchaowalit/solo-empire/tree/main/infra/mcp-server) | Custom MCP server bridging 15+ services — Cloudflare, Vercel, Notion & more | Python |
 | 🛠️ [Solo Empire CLI](https://github.com/bookchaowalit/solo-empire) | 11 Python CLI tools powering the personal OS — automation, backups & more | Python |
+| 📚 [BookReading](https://github.com/bookchaowalit-website/bookreading) | Novel/manga reader with AI-assisted Chinese→Thai translation and terminology memory | Next.js · Go · FastAPI |
+| 🕹️ [Book Arcade](https://github.com/bookchaowalit-game/bookchaowalit-game-collection-frontend) | Twelve small browser games built in public, each with unit-tested rules | Next.js · TypeScript |
+| 📟 [AI Usage Display](https://github.com/bookchaowalit-ai/ai-usage-display) | ESP32 desk display for AI plan quota, fed by a small self-hosted backend | TypeScript · ESP32 |
 | 📱 [Portfolio App](https://apps.apple.com/app/chaowalit-greepoke-portfolio) | Native mobile portfolio app · App Store & Google Play | Flutter · Dart |
 
-[→ View All 129 Projects](https://bookchaowalit.com/en/projects)
+[→ View All Projects](https://bookchaowalit.com/en/projects)
 
 ---
 
@@ -200,5 +206,5 @@ Working across **software engineering, data, AI, and digital growth** — connec
 
 <p align="center">
   <sub><code>· · · ⬡ · · ·</code></sub><br/>
-  <sub><code>// I build systems, not just software · Bangkok · 5+ yrs · 45 domains · 129 projects</code></sub>
+  <sub><code>// I build systems, not just software · Bangkok · 5+ yrs · building in public</code></sub>
 </p>
