@@ -104,9 +104,9 @@ Working across **software engineering, data, AI, and digital growth** — connec
 | 💬 [Chat Playground](https://chat-playground.bookchaowalit.com) | Experiment with different AI chat models | Next.js · TypeScript |
 | 🤖 [MCP Integration Server](https://github.com/bookchaowalit/solo-empire/tree/main/infra/mcp-server) | Custom MCP server bridging 15+ services — Cloudflare, Vercel, Notion & more | Python |
 | 🛠️ [Solo Empire CLI](https://github.com/bookchaowalit/solo-empire) | 11 Python CLI tools powering the personal OS — automation, backups & more | Python |
-| 📚 [BookReading](https://github.com/bookchaowalit-website/bookreading) | Novel/manga reader with AI-assisted Chinese→Thai translation and terminology memory | Next.js · Go · FastAPI |
-| 🕹️ [Book Arcade](https://github.com/bookchaowalit-game/bookchaowalit-game-collection-frontend) | Twelve small browser games built in public, each with unit-tested rules | Next.js · TypeScript |
-| 📟 [AI Usage Display](https://github.com/bookchaowalit-ai/ai-usage-display) | ESP32 desk display for AI plan quota, fed by a small self-hosted backend | TypeScript · ESP32 |
+| 📚 [BookReading](https://github.com/bookchaowalit-website/content-bookreading) | Novel/manga reader with AI-assisted Chinese→Thai translation and terminology memory | Next.js · Go · FastAPI |
+| 🕹️ [Book Arcade](https://github.com/bookchaowalit-game/games-game-collection-web) | Twelve small browser games built in public, each with unit-tested rules | Next.js · TypeScript |
+| 📟 [AI Usage Display](https://github.com/bookchaowalit-ai/platform-ai-usage-display) | ESP32 desk display for AI plan quota, fed by a small self-hosted backend | TypeScript · ESP32 |
 | 📱 [Portfolio App](https://apps.apple.com/app/chaowalit-greepoke-portfolio) | Native mobile portfolio app · App Store & Google Play | Flutter · Dart |
 
 [→ View All Projects](https://bookchaowalit.com/en/projects)
