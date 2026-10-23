@@ -1,0 +1,9 @@
+{
+  // Profile README: keep structure and accessibility rules (alt text), skip layout rules
+  // that would change how the GitHub profile renders.
+  "config": {
+    "MD013": false, "MD033": false, "MD041": false,
+    "MD022": false, "MD025": false, "MD032": false, "MD034": false, "MD036": false
+  },
+  "ignores": ["node_modules/**"]
+}

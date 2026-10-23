@@ -20,16 +20,16 @@
 
 <!-- Status badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Bangkok-Thailand-0891b2?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⚡_Status-Building_Solo_Empire-22c55e?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🧠_Domains-45-ea580c?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🏢_Orgs-10-0891b2?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⏱_Experience-5%2B_yrs-6b7280?style=flat-square&labelColor=0d1117" />
+  <img alt="📍_Bangkok" src="https://img.shields.io/badge/📍_Bangkok-Thailand-0891b2?style=flat-square&labelColor=0d1117" />
+  <img alt="⚡_Status" src="https://img.shields.io/badge/⚡_Status-Building_Solo_Empire-22c55e?style=flat-square&labelColor=0d1117" />
+  <img alt="🧠_Domains" src="https://img.shields.io/badge/🧠_Domains-45-ea580c?style=flat-square&labelColor=0d1117" />
+  <img alt="🏢_Orgs" src="https://img.shields.io/badge/🏢_Orgs-10-0891b2?style=flat-square&labelColor=0d1117" />
+  <img alt="⏱_Experience" src="https://img.shields.io/badge/⏱_Experience-5%2B_yrs-6b7280?style=flat-square&labelColor=0d1117" />
 </p>
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bookchaowalit.bookchaowalit&left_color=0d1117&right_color=0891b2&left_text=visitors" />
+  <img alt="image" src="https://visitor-badge.laobi.icu/badge?page_id=bookchaowalit.bookchaowalit&left_color=0d1117&right_color=0891b2&left_text=visitors" />
 </p>
 
 ---
@@ -159,8 +159,8 @@ Working across **software engineering, data, AI, and digital growth** — connec
 ## activity
 
 <p align="left">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=bookchaowalit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff&count_private=true&rank_icon=github" />
-  <img height="160" src="https://streak-stats.demolab.com?user=bookchaowalit&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=6b7280&dates=6b7280" />
+  <img alt="image" height="160" src="https://github-stats-extended.vercel.app/api?username=bookchaowalit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff&count_private=true&rank_icon=github" />
+  <img alt="image" height="160" src="https://streak-stats.demolab.com?user=bookchaowalit&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=6b7280&dates=6b7280" />
 </p>
 
 ---
@@ -177,28 +177,28 @@ Working across **software engineering, data, AI, and digital growth** — connec
 
 <p align="left">
   <a href="https://bookchaowalit.com/en">
-    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:bookchaowalit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chaowalit-greepoke-b687351a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/bookchaowalit">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://medium.com/@bookchaowalit">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://dev.to/bookchaowalit">
-    <img src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://fastwork.co/user/bookchao">
-    <img src="https://img.shields.io/badge/Fastwork-22c55e?style=for-the-badge&logoColor=white" />
+    <img alt="Fastwork" src="https://img.shields.io/badge/Fastwork-22c55e?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01bb8b7612ad1fd8bc">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
