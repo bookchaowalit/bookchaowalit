@@ -102,8 +102,8 @@ Working across **software engineering, data, AI, and digital growth** — connec
 | 📈 [BookTrading](https://booktrading.bookchaowalit.com) | Crypto & stock trading platform with multi-signal alpha engine & grid bots | Go · Python · Docker |
 | 📊 [BookMarketing](https://bookmarketing.bookchaowalit.com) | Marketing automation with SEO tracking & multi-channel campaign management | Next.js · TypeScript |
 | 💬 [Chat Playground](https://chat-playground.bookchaowalit.com) | Experiment with different AI chat models | Next.js · TypeScript |
-| 🤖 [MCP Integration Server](https://github.com/bookchaowalit/solo-empire/tree/main/infra/mcp-server) | Custom MCP server bridging 15+ services — Cloudflare, Vercel, Notion & more | Python |
-| 🛠️ [Solo Empire CLI](https://github.com/bookchaowalit/solo-empire) | 11 Python CLI tools powering the personal OS — automation, backups & more | Python |
+| 🤖 [MCP Integration Server](https://github.com/bookchaowalit/platform-mcp-aggregator) | Custom MCP server bridging 15+ services — Cloudflare, Vercel, Notion & more | TypeScript |
+| 🛠️ [Solo Empire CLI](https://github.com/bookchaowalit/platform-ops-cli) | Python CLI tools powering the personal OS — automation, backups & more | Python |
 | 📚 [BookReading](https://github.com/bookchaowalit-website/content-bookreading) | Novel/manga reader with AI-assisted Chinese→Thai translation and terminology memory | Next.js · Go · FastAPI |
 | 🕹️ [Book Arcade](https://github.com/bookchaowalit-game/games-game-collection-web) | Twelve small browser games built in public, each with unit-tested rules | Next.js · TypeScript |
 | 📟 [AI Usage Display](https://github.com/bookchaowalit-ai/platform-ai-usage-display) | ESP32 desk display for AI plan quota, fed by a small self-hosted backend | TypeScript · ESP32 |
